@@ -1,0 +1,10 @@
+amanda,a,noturno,2018-08-26T20:45:08Z
+alex,b,diurno,2018-08-26T21:49:37Z
+bobbrown,c,noturno,2018-08-27T03:19:13Z
+amanda,c,noturno,2018-08-27T08:11:00Z
+jeniffer,a,diurno,2018-08-27T09:19:24Z
+alex,a,diurno,2018-08-27T22:39:52Z
+joão,c,noturno,2018-08-28T07:42:12Z
+miguel,b,diurno,2018-08-28T07:42:11Z
+pedro,b,noturno,2018-08-28T07:42:20Z
+henrique,a,diurno,2018-08-28T07:40:19Z

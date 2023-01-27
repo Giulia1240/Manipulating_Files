@@ -1,0 +1,10 @@
+olaf,a,diurno,2018-08-27T22:39:57Z
+noah,c,noturno,2018-08-28T07:42:19Z
+kiara,b,diurno,2018-08-28T07:42:10Z
+samantha,b,noturno,2018-08-28T07:42:25Z
+daniel,a,diurno,2018-08-28T07:40:19Z
+paulo,c,noturno,2018-08-28T07:42:12Z
+marcone,b,diurno,2018-08-28T07:42:11Z
+sandra,b,noturno,2018-08-28T07:42:20Z
+claudia,a,diurno,2018-08-28T07:40:19Z
+sandra,b,noturno,2018-08-28T07:42:20Z

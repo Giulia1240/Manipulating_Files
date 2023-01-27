@@ -1,0 +1,10 @@
+gael,a,diurno,2018-08-28T07:40:19Z
+lis,a,noturno,2018-08-26T20:45:08Z
+laura,b,diurno,2018-08-26T21:49:37Z
+ana,a,noturno,2018-08-26T20:45:04Z
+maria,b,diurno,2018-08-26T21:49:17Z
+doida,c,noturno,2018-08-27T03:19:23Z
+teste,c,noturno,2018-08-27T08:11:30Z
+andreia,a,diurno,2018-08-27T09:19:54Z
+olaf,a,diurno,2018-08-27T22:39:57Z
+noah,c,noturno,2018-08-28T07:42:19Z
